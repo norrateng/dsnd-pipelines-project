@@ -23,9 +23,9 @@ We fine-tune our Logistic Regression model by exploring which parameters can be 
 
 
 ### Files 
-README.md - This is the README
-requirements.txt - This contains all the libaries you need to install in your environment to be able to run the notebook.
-starter.ipynb - This is the notebook which contains all the processes in this project.
+- README.md - This is the README
+- requirements.txt - This contains all the libaries you need to install in your environment to be able to run the notebook.
+- starter.ipynb - This is the notebook which contains all the processes in this project.
 
 ### Set up instructions
 
